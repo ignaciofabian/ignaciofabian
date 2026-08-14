@@ -1,6 +1,6 @@
 ## Hola bienvenido a mi git 👋
 <p align="center">
-  <img src="./assets/ignacio-fabian-github-banner.svg" width="100%" alt="Ignacio Fabian Developer Banner"/>
+  <img src="ignacio-fabian-github-banner.svg" width="100%"/>
 </p>
 <!-- 
 **ignaciofabian/ignaciofabian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
