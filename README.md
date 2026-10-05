@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="Ignacio Fabian Developer Banner">
+  <img src="./ignacio-fabian-github-banner.svg" width="100%" alt="Ignacio Fabian Developer Banner">
 </p>
 # 👋 Hola, soy Ignacio Fabian
 
