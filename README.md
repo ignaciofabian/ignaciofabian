@@ -1,20 +1,24 @@
 <p align="center">
   <img src="./ignacio-fabian-github-banner.svg" width="100%" alt="Ignacio Fabian Developer Banner">
 </p>
-## 👋 Hola, soy Ignacio Fabian
+
+<h1 align="center">👋 Hola, soy Ignacio Fabian</h1>
+
+<p align="center">
+  Estudiante de Ingeniería Informática · Backend Developer<br>
+  Java • Spring Boot • Microservicios • Docker
+</p>
+
+---
 
 ## 👨‍💻 Sobre mí
 
-🎓 Estudiante de Ingeniería Informática en Duoc UC  
-💻 Enfocado en desarrollo Backend y Frontend  
-☕ Desarrollo Backend con Java y Spring Boot  
-⚛️ Desarrollo Frontend con React y JavaScript  
-🐍 Programación con Python  
-📱 Desarrollo con Kotlin  
-🗄️ Experiencia con SQL, Oracle y PostgreSQL  
-🐳 Docker y arquitectura de Microservicios  
-🔐 Aprendiendo Ciberseguridad  
-🎮 Apasionado por la tecnología, programación y videojuegos  
+- 🎓 Estudiante de Ingeniería Informática en Duoc UC
+- ☕ Me enfoco en desarrollo **Backend** con Java y Spring Boot
+- 🐳 Me interesa la arquitectura de **microservicios** y la contenerización con Docker
+- ⚛️ También desarrollo **Frontend** con React y JavaScript
+- 🔐 Aprendiendo Ciberseguridad
+- 🎮 Apasionado por la tecnología, la programación y los videojuegos
 
 ---
 
@@ -29,22 +33,23 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 ### ⚙️ Backend
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🗄️ Bases de datos
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🛠️ Herramientas
+### 🐳 DevOps y herramientas
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -54,60 +59,55 @@
 
 ## 🔥 Proyectos destacados
 
-### 📚 Library Microservices
+### 📚 [Library Microservices](https://github.com/ignaciofabian/Library-Microservices)
 
-Sistema basado en arquitectura de microservicios desarrollado con:
+Sistema de gestión de biblioteca construido con arquitectura de microservicios (usuarios, autenticación, libros y préstamos), con API Gateway / BFF y despliegue mediante Docker Compose.
 
-- Java
-- Spring Boot
-- JWT
-- PostgreSQL
-- Docker Compose
-- API Gateway / BFF
-
-🔗 [Ver proyecto](https://github.com/ignaciofabian/Library-Microservices)
+**Stack:** `Java` · `Spring Boot` · `JWT` · `PostgreSQL` · `Docker Compose`
 
 ### 🛒 PokéStore
 
-Tienda web desarrollada utilizando:
+Tienda web con catálogo de productos, desplegada en GitHub Pages.
 
-- HTML
-- CSS
-- JavaScript
-- GitHub Pages
+**Stack:** `HTML` · `CSS` · `JavaScript`
+
+🔗 [Ver demo](https://ignaciofabian.github.io/NOMBRE-DEL-REPO) · [Código](https://github.com/ignaciofabian/NOMBRE-DEL-REPO)
 
 ---
 
 ## 📊 Estadísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ignaciofabian&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciofabian&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Actividad
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ignaciofabian&theme=tokyo-night&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciofabian&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
 
 ## 🎯 Actualmente
 
-- 📚 Estudiando Ingeniería Informática
-- ⚛️ Mejorando mis conocimientos en JavaScript y React
-- 🐍 Programando con Python
-- ☕ Trabajando con Java y Spring Boot
-- 📱 Aprendiendo Kotlin
+- ☕ Profundizando en Java y Spring Boot
+- 🐳 Practicando Docker y microservicios
 - 🗄️ Trabajando con Oracle SQL y PL/SQL
+- ⚛️ Mejorando mis conocimientos en React
+- 📱 Aprendiendo Kotlin
 - 🔐 Aprendiendo Ciberseguridad
-- 🐳 Practicando Docker y Microservicios
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:TU-CORREO@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
 💻 <b>Siempre aprendiendo, programando y construyendo nuevos proyectos.</b>
 </p>
+
