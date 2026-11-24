@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./ignacio-fabian-github-banner.svg" width="100%" alt="Ignacio Fabian Developer Banner">
 </p>
-# 👋 Hola, soy Ignacio Fabian
+## 👋 Hola, soy Ignacio Fabian
 
 ## 👨‍💻 Sobre mí
 
